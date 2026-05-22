@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on mobile and web applications <br>I'm interested in learning new topics in different  subjects, like frontend and backend <br>I'm interested in problem-solving 
+
 
 
 # 💻 Tech Stack:
